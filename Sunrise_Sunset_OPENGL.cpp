@@ -1,4 +1,5 @@
 //Write OpenGL program to draw Sun Rise and Sunset.
+//Doesnt work on Qt Creator
 //If on Windows, use CodeBlocks IDE and build the project to run it 
 #include<iostream>
 #include<stdlib.h>
